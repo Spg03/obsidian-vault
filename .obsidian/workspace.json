@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f862c00528ab054d",
+            "id": "3de5062e0bc49c77",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "关系图谱"
             }
-          },
-          {
-            "id": "3de5062e0bc49c77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git流程展示.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git流程展示"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 241.5
   },
   "right": {
     "id": "fa38eca5861916ef",
@@ -195,10 +180,23 @@
   },
   "active": "3de5062e0bc49c77",
   "lastOpenFiles": [
-    "git流程展示.md",
-    "gitnexus-codex/GitNexus Codex 总入口.md",
+    "gitnexus-codex/03-MCP与Agent/Agent 工作流.md",
     "gitnexus/gitnexus query 实现过程.md",
+    "demo.canvas",
+    "git流程展示.md",
     "gitnexus/GitNexus 索引构建实现原理.md",
+    "gitnexus/为项目创建文件/AGENTS.md.md",
+    "Pasted image 20260525152310.png",
+    "Pasted image 20260525091415.png",
+    "Pasted image 20260524225733.png",
+    "Pasted image 20260524225436.png",
+    "Pasted image 20260524223028.png",
+    "Pasted image 20260524223011.png",
+    "gitnexus-wiki-generation-flowchart.png",
+    "gitnexus-web-ui-architecture.png",
+    "gitnexus-mcp-stdout-sentinel-flow 1.png",
+    "gitnexus-mcp-stdout-sentinel-flow.png",
+    "gitnexus-codex/GitNexus Codex 总入口.md",
     "gitnexus/Wiki 生成实现原理.md",
     "gitnexus/Web UI实现原理.md",
     "gitnexus/Tree-sitter原理实现.md",
@@ -219,28 +217,15 @@
     "gitnexus-codex/03-MCP与Agent/MCP 工具清单.md",
     "gitnexus-codex/03-MCP与Agent/LocalBackend 工具执行层实现.md",
     "gitnexus-codex/03-MCP与Agent/Impact 影响分析实现.md",
-    "gitnexus-codex/03-MCP与Agent/Detect Changes 提交前影响验证实现.md",
-    "gitnexus-codex/03-MCP与Agent/Context Augmentation 快速上下文增强机制.md",
-    "Pasted image 20260525152344.png",
-    "Pasted image 20260525152422.png",
-    "gitnexus-mcp-stdout-sentinel-flow.png",
-    "gitnexus-heartbeat-reconnect-sequence.png",
-    "屏幕截图 2026-05-25 152301.png",
-    "屏幕截图 2026-05-22 084031.png",
-    "屏幕截图 2026-05-22 083936.png",
-    "屏幕截图 2026-05-22 083927.png",
     "gitnexus-codex/11-边缘与集成",
     "gitnexus-codex/10-语言与解析模型",
     "gitnexus-codex/09-性能与增量",
-    "屏幕截图 2026-05-25 152301 4.png",
-    "屏幕截图 2026-05-25 152301 3.png",
     "gitnexus-codex/_assets/gitnexus",
     "gitnexus-codex/_assets",
     "gitnexus-codex/08-重点代码",
     "gitnexus-codex/07-生成文件示例",
     "gitnexus-codex/06-Wiki生成",
     "gitnexus-codex/05-Group跨仓库",
-    "gitnexus-codex/04-Web UI",
-    "未命名.canvas"
+    "gitnexus-codex/04-Web UI"
   ]
 }

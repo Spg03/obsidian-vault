@@ -3,9 +3,9 @@
 		{"id":"fdd93b675f4f84e8","type":"file","file":"gitnexus/GitNexus 索引构建实现原理.md","x":-180,"y":-330,"width":380,"height":320},
 		{"id":"d78f344a6afd8589","type":"file","file":"gitnexus/gitnexus query 实现过程.md","x":-760,"y":-100,"width":300,"height":300},
 		{"id":"74591e23853ec7ba","type":"file","file":"Pasted image 20260525152310.png","x":240,"y":50,"width":400,"height":361},
-		{"id":"6e6c53f2fd583ba1","x":-305,"y":171,"width":250,"height":60,"type":"text","text":""},
-		{"id":"250199563104c11f","x":-460,"y":560,"width":400,"height":400,"type":"file","file":"gitnexus/gitnexus query 实现过程.md"},
-		{"id":"e9d008e73a65b8d9","x":200,"y":760,"width":400,"height":43,"type":"file","file":"Pasted image 20260524225436.png"}
+		{"id":"6e6c53f2fd583ba1","type":"text","text":"","x":-305,"y":171,"width":250,"height":60},
+		{"id":"250199563104c11f","type":"file","file":"gitnexus/gitnexus query 实现过程.md","x":-460,"y":560,"width":400,"height":400},
+		{"id":"e9d008e73a65b8d9","type":"file","file":"Pasted image 20260524225436.png","x":200,"y":760,"width":400,"height":43}
 	],
 	"edges":[
 		{"id":"00e6a8d02aa68312","fromNode":"fdd93b675f4f84e8","fromSide":"left","toNode":"d78f344a6afd8589","toSide":"right"},

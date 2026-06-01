@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "b454d5609ecc9e8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9076cd26b94ef1eb",
+        "type": "tabs",
+        "dimension": 63.78205128205128,
+        "children": [
+          {
+            "id": "dba09f8ae7be18c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gitnexus/gitnexus query 实现过程.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gitnexus query 实现过程"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d47205e46c80bf33",
+        "type": "tabs",
+        "dimension": 36.217948717948715,
+        "children": [
+          {
+            "id": "f862c00528ab054d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8743f256bb628863",
+    "type": "split",
+    "children": [
+      {
+        "id": "119240201b243796",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9501d42b9a56a271",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fa6fcac0c5161587",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a58c1c64cde3b0b5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "fa38eca5861916ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cf5982d5328cf1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f449ae80d552272b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "05aef2bde97ca669",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "2a32c6d5626fa834",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "bc902efa51fe3fa1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "093bfce8576e32fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "f862c00528ab054d",
+  "lastOpenFiles": [
+    "gitnexus-codex/GitNexus Codex 总入口.md",
+    "gitnexus/gitnexus query 实现过程.md",
+    "gitnexus/GitNexus 索引构建实现原理.md",
+    "gitnexus/Wiki 生成实现原理.md",
+    "gitnexus/Web UI实现原理.md",
+    "gitnexus/Tree-sitter原理实现.md",
+    "gitnexus/npx gitnexus analyze 为项目生成了以下内容：.md",
+    "gitnexus/MCP Server实现.md",
+    "gitnexus/LadybugDB 图存储.md",
+    "gitnexus/Group 实现原理.md",
+    "gitnexus/gitnexus实现知识图谱.md",
+    "gitnexus/重点代码/STEP_IN_PROCESS.md",
+    "gitnexus-codex/05-Group跨仓库/Group 实现原理.md",
+    "gitnexus-codex/05-Group跨仓库/Cross Repo Impact.md",
+    "gitnexus-codex/05-Group跨仓库/Contract Extraction.md",
+    "gitnexus-codex/05-Group跨仓库/Bridge DB.md",
+    "gitnexus-codex/03-MCP与Agent/Query 与 Context 如何实现.md",
+    "gitnexus-codex/03-MCP与Agent/Prompt Skill AGENTS 注入机制.md",
+    "gitnexus-codex/03-MCP与Agent/MCP stdout 哨兵机制.md",
+    "gitnexus-codex/03-MCP与Agent/MCP Server 实现.md",
+    "gitnexus-codex/03-MCP与Agent/MCP 工具清单.md",
+    "gitnexus-codex/03-MCP与Agent/LocalBackend 工具执行层实现.md",
+    "gitnexus-codex/03-MCP与Agent/Impact 影响分析实现.md",
+    "gitnexus-codex/03-MCP与Agent/Detect Changes 提交前影响验证实现.md",
+    "gitnexus-codex/03-MCP与Agent/Context Augmentation 快速上下文增强机制.md",
+    "gitnexus-codex/03-MCP与Agent/Agent 工作流.md",
+    "Pasted image 20260525152344.png",
+    "Pasted image 20260525152422.png",
+    "gitnexus-mcp-stdout-sentinel-flow.png",
+    "gitnexus-heartbeat-reconnect-sequence.png",
+    "屏幕截图 2026-05-25 152301.png",
+    "屏幕截图 2026-05-22 084031.png",
+    "屏幕截图 2026-05-22 083936.png",
+    "屏幕截图 2026-05-22 083927.png",
+    "gitnexus-codex/11-边缘与集成",
+    "gitnexus-codex/10-语言与解析模型",
+    "gitnexus-codex/09-性能与增量",
+    "屏幕截图 2026-05-25 152301 4.png",
+    "屏幕截图 2026-05-25 152301 3.png",
+    "gitnexus-codex/_assets/gitnexus",
+    "gitnexus-codex/_assets",
+    "gitnexus-codex/08-重点代码",
+    "gitnexus-codex/07-生成文件示例",
+    "gitnexus-codex/06-Wiki生成",
+    "gitnexus-codex/05-Group跨仓库",
+    "gitnexus-codex/04-Web UI",
+    "未命名.canvas"
+  ]
+}

@@ -11,10 +11,17 @@
             "id": "3de5062e0bc49c77",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "canvas",
+              "state": {
+                "file": "demo.canvas",
+                "viewState": {
+                  "x": -60,
+                  "y": 341.69873817034704,
+                  "zoom": -0.6954131047217004
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "demo"
             }
           }
         ]
@@ -150,22 +157,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-06-01.md",
+                "file": "demo.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-01 的大纲"
+              "title": "demo 的大纲"
+            }
+          },
+          {
+            "id": "d4c1a5c19e7fa0fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +195,15 @@
       "bases:新建数据库": false
     }
   },
-  "active": "9501d42b9a56a271",
+  "active": "3de5062e0bc49c77",
   "lastOpenFiles": [
+    "gitnexus/GitNexus 索引构建实现原理.md",
+    "gitnexus/重点代码/runFullAnalysis().md",
+    "gitnexus/gitnexus query 实现过程.md",
     "2026-06-01.md",
     "gitnexus-codex/03-MCP与Agent/Agent 工作流.md",
-    "gitnexus/gitnexus query 实现过程.md",
     "demo.canvas",
     "git流程展示.md",
-    "gitnexus/GitNexus 索引构建实现原理.md",
     "gitnexus/为项目创建文件/AGENTS.md.md",
     "Pasted image 20260525152310.png",
     "Pasted image 20260525091415.png",
@@ -217,7 +234,6 @@
     "gitnexus-codex/03-MCP与Agent/MCP stdout 哨兵机制.md",
     "gitnexus-codex/03-MCP与Agent/MCP Server 实现.md",
     "gitnexus-codex/03-MCP与Agent/MCP 工具清单.md",
-    "gitnexus-codex/03-MCP与Agent/LocalBackend 工具执行层实现.md",
     "gitnexus-codex/11-边缘与集成",
     "gitnexus-codex/10-语言与解析模型",
     "gitnexus-codex/09-性能与增量",

@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2026-06-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "2026-06-01 的大纲"
             }
           }
         ],
@@ -178,8 +179,9 @@
       "bases:新建数据库": false
     }
   },
-  "active": "3de5062e0bc49c77",
+  "active": "9501d42b9a56a271",
   "lastOpenFiles": [
+    "2026-06-01.md",
     "gitnexus-codex/03-MCP与Agent/Agent 工作流.md",
     "gitnexus/gitnexus query 实现过程.md",
     "demo.canvas",
@@ -216,7 +218,6 @@
     "gitnexus-codex/03-MCP与Agent/MCP Server 实现.md",
     "gitnexus-codex/03-MCP与Agent/MCP 工具清单.md",
     "gitnexus-codex/03-MCP与Agent/LocalBackend 工具执行层实现.md",
-    "gitnexus-codex/03-MCP与Agent/Impact 影响分析实现.md",
     "gitnexus-codex/11-边缘与集成",
     "gitnexus-codex/10-语言与解析模型",
     "gitnexus-codex/09-性能与增量",

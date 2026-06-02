@@ -11,17 +11,14 @@
             "id": "3de5062e0bc49c77",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "demo.canvas",
-                "viewState": {
-                  "x": -60,
-                  "y": 341.69873817034704,
-                  "zoom": -0.6954131047217004
-                }
+                "file": "gitnexus/使用演示.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "demo"
+              "icon": "lucide-file",
+              "title": "使用演示"
             }
           }
         ]
@@ -197,12 +194,12 @@
   },
   "active": "3de5062e0bc49c77",
   "lastOpenFiles": [
+    "demo.canvas",
     "gitnexus/GitNexus 索引构建实现原理.md",
     "gitnexus/重点代码/runFullAnalysis().md",
     "gitnexus/gitnexus query 实现过程.md",
     "2026-06-01.md",
     "gitnexus-codex/03-MCP与Agent/Agent 工作流.md",
-    "demo.canvas",
     "git流程展示.md",
     "gitnexus/为项目创建文件/AGENTS.md.md",
     "Pasted image 20260525152310.png",
@@ -233,7 +230,6 @@
     "gitnexus-codex/03-MCP与Agent/Prompt Skill AGENTS 注入机制.md",
     "gitnexus-codex/03-MCP与Agent/MCP stdout 哨兵机制.md",
     "gitnexus-codex/03-MCP与Agent/MCP Server 实现.md",
-    "gitnexus-codex/03-MCP与Agent/MCP 工具清单.md",
     "gitnexus-codex/11-边缘与集成",
     "gitnexus-codex/10-语言与解析模型",
     "gitnexus-codex/09-性能与增量",

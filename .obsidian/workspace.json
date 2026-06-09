@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gitnexus/使用演示.md",
+                "file": "gitnexus/重点代码/analyze.ts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用演示"
+              "title": "analyze.ts"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "fa38eca5861916ef",
@@ -178,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,9 +196,14 @@
   },
   "active": "3de5062e0bc49c77",
   "lastOpenFiles": [
+    "gitnexus/重点代码/runFullAnalysis().md",
+    "gitnexus/重点代码/analyze.ts.md",
+    "gitnexus/Wiki 生成实现原理.md",
+    "gitnexus/Web UI实现原理.md",
+    "gitnexus/npx gitnexus analyze 为项目生成了以下内容：.md",
+    "gitnexus/使用演示.md",
     "demo.canvas",
     "gitnexus/GitNexus 索引构建实现原理.md",
-    "gitnexus/重点代码/runFullAnalysis().md",
     "gitnexus/gitnexus query 实现过程.md",
     "2026-06-01.md",
     "gitnexus-codex/03-MCP与Agent/Agent 工作流.md",
@@ -213,10 +220,7 @@
     "gitnexus-mcp-stdout-sentinel-flow 1.png",
     "gitnexus-mcp-stdout-sentinel-flow.png",
     "gitnexus-codex/GitNexus Codex 总入口.md",
-    "gitnexus/Wiki 生成实现原理.md",
-    "gitnexus/Web UI实现原理.md",
     "gitnexus/Tree-sitter原理实现.md",
-    "gitnexus/npx gitnexus analyze 为项目生成了以下内容：.md",
     "gitnexus/MCP Server实现.md",
     "gitnexus/LadybugDB 图存储.md",
     "gitnexus/Group 实现原理.md",
@@ -229,7 +233,6 @@
     "gitnexus-codex/03-MCP与Agent/Query 与 Context 如何实现.md",
     "gitnexus-codex/03-MCP与Agent/Prompt Skill AGENTS 注入机制.md",
     "gitnexus-codex/03-MCP与Agent/MCP stdout 哨兵机制.md",
-    "gitnexus-codex/03-MCP与Agent/MCP Server 实现.md",
     "gitnexus-codex/11-边缘与集成",
     "gitnexus-codex/10-语言与解析模型",
     "gitnexus-codex/09-性能与增量",

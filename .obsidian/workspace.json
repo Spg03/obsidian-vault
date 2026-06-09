@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gitnexus/重点代码/analyze.ts.md",
+                "file": "ragflow/流程图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "analyze.ts"
+              "title": "流程图"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "fa38eca5861916ef",
@@ -196,8 +195,11 @@
   },
   "active": "3de5062e0bc49c77",
   "lastOpenFiles": [
-    "gitnexus/重点代码/runFullAnalysis().md",
+    "未命名.md",
+    "ragflow/流程图.md",
+    "ragflow",
     "gitnexus/重点代码/analyze.ts.md",
+    "gitnexus/重点代码/runFullAnalysis().md",
     "gitnexus/Wiki 生成实现原理.md",
     "gitnexus/Web UI实现原理.md",
     "gitnexus/npx gitnexus analyze 为项目生成了以下内容：.md",
@@ -231,8 +233,6 @@
     "gitnexus-codex/05-Group跨仓库/Contract Extraction.md",
     "gitnexus-codex/05-Group跨仓库/Bridge DB.md",
     "gitnexus-codex/03-MCP与Agent/Query 与 Context 如何实现.md",
-    "gitnexus-codex/03-MCP与Agent/Prompt Skill AGENTS 注入机制.md",
-    "gitnexus-codex/03-MCP与Agent/MCP stdout 哨兵机制.md",
     "gitnexus-codex/11-边缘与集成",
     "gitnexus-codex/10-语言与解析模型",
     "gitnexus-codex/09-性能与增量",
@@ -241,7 +241,6 @@
     "gitnexus-codex/08-重点代码",
     "gitnexus-codex/07-生成文件示例",
     "gitnexus-codex/06-Wiki生成",
-    "gitnexus-codex/05-Group跨仓库",
-    "gitnexus-codex/04-Web UI"
+    "gitnexus-codex/05-Group跨仓库"
   ]
 }
